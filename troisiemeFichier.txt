@@ -1,2 +1,4 @@
 
-Bonjour: Voici la premiËre modif de mon 3Ëme fichier.
+Bonjour: Voici la premi√®re modif de mon 3√®me fichier.
+
+- Voici la deuxi√©me mofif depuis Github.
